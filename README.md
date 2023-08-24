@@ -26,6 +26,8 @@ Users should be able to:
 
 ## Usage
 To be able to use or work with this project you should open Terminal inside this projects file. After that add the following line of code to the terminal(this way Tailwind CSS will work properly throughout the project):
+
+     
      npx tailwindcss -i ./src/input.css -o ./dist/output.css --watch
 
 ## My process
